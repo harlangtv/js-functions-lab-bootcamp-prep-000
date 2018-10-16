@@ -3,5 +3,5 @@ function happyHolidays(string){
 }
 function happyHolidaysTo(name){
   console.log(`${happyHolidaysTo}, ${name}!`)
-  say("Happy holidays to", "Jake")
+  return("Happy holidays to", "Jake")
 }
